@@ -1,0 +1,11 @@
+﻿  练习项目.cpp
+G:\糟糕的代码\练习项目\练习项目\graphic.hpp(65,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\糟糕的代码\练习项目\练习项目\huffman.hpp(64,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\糟糕的代码\练习项目\练习项目\huffman.hpp(63,44): message : 在编译 类 模板 成员函数“Huffman<double>::Huffman(const std::vector<double,std::allocator<double>> &)”时
+G:\糟糕的代码\练习项目\练习项目\练习项目.cpp(24,18): message : 查看对正在编译的函数 模板 实例化“Huffman<double>::Huffman(const std::vector<double,std::allocator<double>> &)”的引用
+G:\糟糕的代码\练习项目\练习项目\练习项目.cpp(24,24): message : 查看对正在编译的 类 模板 实例化“Huffman<double>”的引用
+G:\糟糕的代码\练习项目\练习项目\huffman.hpp(85,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\糟糕的代码\练习项目\练习项目\huffman.hpp(128,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\糟糕的代码\练习项目\练习项目\huffman.hpp(125,1): message : 在编译 类 模板 成员函数“void Huffman<double>::showHFT(void)”时
+G:\糟糕的代码\练习项目\练习项目\练习项目.cpp(25,14): message : 查看对正在编译的函数 模板 实例化“void Huffman<double>::showHFT(void)”的引用
+  练习项目.vcxproj -> G:\糟糕的代码\练习项目\x64\Debug\练习项目.exe
